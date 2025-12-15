@@ -22,18 +22,18 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sarin-Rahman-Zavin&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Sarin-Rahman-Zavin&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srzavin&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=srzavin&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarin-Rahman-Zavin&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=srzavin&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
 
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-[![Sarin-Rahman-Zavin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarin-Rahman-Zavin&bg_color=0d1117&color=ffc0cb&line=ff99aa&point=ffb6c1&area=true&hide_border=true)](https://github.com/Sarin-Rahman-Zavin/github-readme-activity-graph)
+[![srzavin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srzavin&bg_color=0d1117&color=ffc0cb&line=ff99aa&point=ffb6c1&area=true&hide_border=true)](https://github.com/srzavin/github-readme-activity-graph)
 
 
 
@@ -42,13 +42,13 @@
 
 ---
 <p align="center">
-  <img src="https://ghchart.rshah.org/FF69B4/Sarin-Rahman-Zavin" alt="GitHub chart" />
+  <img src="https://ghchart.rshah.org/FF69B4/srzavin" alt="GitHub chart" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarin-Rahman-Zavin&color=blueviolet&style=flat" alt="Profile Views" width="200"/>
+  <img src="https://komarev.com/ghpvc/?username=srzavin&color=blueviolet&style=flat" alt="Profile Views" width="200"/>
 </p>
 
 <p align="center">
@@ -67,9 +67,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarin-Rahman-Zavin/Sarin-Rahman-Zavin/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarin-Rahman-Zavin/Sarin-Rahman-Zavin/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sarin-Rahman-Zavin/Sarin-Rahman-Zavin/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srzavin/srzavin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srzavin/srzavin/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srzavin/srzavin/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 -->
