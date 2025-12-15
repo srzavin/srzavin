@@ -42,7 +42,7 @@
 
 ---
 <p align="center">
-  <img src="https://ghchart.rshah.org/FF69B4/srzavin" alt="GitHub chart" />
+  <img src="https://ghchart.rshah.org/26a641/srzavin" alt="GitHub chart" />
 </p>
 
 ---
