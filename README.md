@@ -10,7 +10,7 @@
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/srzavin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/srzavin" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/szavin" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-<a href="https://www.srzavin.com" target="_blank"><img src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-globe-icon-png-image_3787753.jpg" height="28" style="margin-right: 4px"></a></p>
+<a href="https://www.srzavin.com" target="_blank">Click here!<img src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-globe-icon-png-image_3787753.jpg" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 Passionate developer</h3>**
 <!-- creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization. -->
